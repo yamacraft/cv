@@ -148,7 +148,6 @@ team Y.G.E.名義にて下記Androidアプリ、Webサービスの開発と保�
 URL: https://yge.yamaglo.jp/
 
 - Android
-    - 
     - わらってパンダ（公開停止）
     - kakuwr
     - D.I.C.
