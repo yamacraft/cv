@@ -11,7 +11,7 @@ jobs:
       - run:
           name: PDF output
           command: |
-            docker-compose -f ./output-compose.yml --build
+            docker-compose -f ./output-compose.yml up --build
       - save_cache:
           key: deploy-{{ epoch }}
           paths:
