@@ -24,7 +24,7 @@
 
 #### 業務利用経験あり
 
-- Android
+- Android (2.0〜)
     - Java
     - Kotlin
 - iOS
@@ -46,10 +46,14 @@
 #### 業務利用経験あり
 
 - BEAR.Saturday
+- Vue.js
 - Firebase
+    - Auth
     - Analytics
     - Realtime Database
     - Crash Reporting
+    - Hosting
+    - Cloud Functions
 - Google Analytics
 - Fastlane
 - Danger
@@ -59,17 +63,16 @@
 - DeployGate
 - Jenkins
 - GitHub
+- hubot
+- Docker
+- CircleCI
 
 #### プライベートでの利用経験あり
 
 - BEAR.Sunday
 - Riot.js
 - Firebase
-    - Hosting
     - Notification
-- hubot
-- Docker
-- CircleCI
 - Bitbucket
 
 ## 登壇歴
@@ -96,8 +99,19 @@
 
 - Recme （iOS） 開発
     - Swift2.2対応
+    - Fastlane、Jenkinsを利用したCI環境の構築
 - 社内用アプリ（Android） 開発
-- Jenkins、Fastlaneを利用したCI環境の構築
+    - Firebase RealtimeDatabaseによるデータ管理の実装
+    - Firebase Cloud Functionsによる履歴ログの管理実装
+- Try Wave（Webサービス）開発
+    - Vue.js (v2.5.2) + Firebase によるサービス構築
+        - Firebase Realtime Databaseでのデータ管理
+        - Firebase Auth（+ Firebase-UI）を用いたGoogle、Facebookのサインイン処理の実装
+        - Firebase Hostingでのサイトデプロイ
+        - Firebase Cloud Functionsによる各種データ制御の実装
+    - hubotを利用し、チャットボットのみでサイト管理できる環境の構築
+    - 上記フロントエンド、hubotをDockerで構築し、CircleCIによって自動デプロイされる仕組みを構築
+- オフィス内ネットワーク環境（主にWiFi）の整備のサポートなど
 
 ### エキサイト株式会社（2011/03 〜 2016/01）
 
