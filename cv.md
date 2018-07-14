@@ -63,9 +63,11 @@
 - DeployGate
 - Jenkins
 - GitHub
+- GitLab
 - hubot
 - Docker
 - CircleCI
+- GitLab CI(+GitLab Runner)
 
 #### プライベートでの利用経験あり
 
@@ -74,6 +76,8 @@
 - Firebase
     - Notification
 - Bitbucket
+- Google Cloud Platform
+    - Cloud DNS
 
 ## 登壇歴
 
@@ -95,7 +99,15 @@
 
 ## 職務経歴
 
-### 株式会社リーディングマーク（2016/02 〜 現職）
+### フリーランス（2017/06 〜 現在）
+
+- 某社CtoC向けアプリ（Android）開発
+    - 機能改修、保守などの実装
+    - GitLab CIを用いたCI環境の構築
+- 社内システム整備のサポートなど
+- オフィス内IT機器の管理運用のサポートなど
+
+### 株式会社リーディングマーク（2016/02 〜 2017/05）
 
 - Recme （iOS） 開発
     - Swift2.2対応
@@ -163,9 +175,9 @@ URL: https://yge.yamaglo.jp/
 
 - Android
     - わらってパンダ（公開停止）
-    - kakuwr
+    - kakuwr（公開停止）
     - D.I.C.
     - AAびゅーわ
-    - ズンドコキヨシゲーム
+    - ズンドコキヨシゲーム（公開停止）
 - Web
-    - [YoroOne(yoroone.yamaglo.jp)](https://yoroone.yamaglo.jp/)
+    - [YoroOne(yoroone.yamaglo.jp)](https://yoroone.yamaglo.jp/)（現在アップデートに向け運用停止中）
