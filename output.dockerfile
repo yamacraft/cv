@@ -6,7 +6,7 @@ RUN apt-get install -y git bzip2 fontconfig
 RUN wget "https://github.com/googlei18n/noto-cjk/blob/master/NotoSansCJKsc-Medium.otf?raw=true" -O /usr/local/share/fonts/NotoSansCJKsc-Medium.otf
 RUN fc-cache -fv
 
-RUN npm install -g markdown-pdf
+RUN npm install -g markdown-pdf --unsafe-perm
 
 WORKDIR app
 
