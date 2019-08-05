@@ -1,4 +1,4 @@
-FROM node:6.11-slim
+FROM node:10.16.1-stretch-slim
 
 RUN apt-get update
 RUN apt-get install -y git bzip2 fontconfig
