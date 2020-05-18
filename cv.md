@@ -6,11 +6,9 @@
 |---|-----|
 |Name|山田 航(Wataru Yamada)|
 |Web|[山田航空ネットワークフロント](http://yamacraft.github.io/)|
-|Blog|[山田航空ネットワーク2nd](http://yamacraft2.exblog.jp/)|
+|Blog|[山田航空ネットワーク3rd](http://yamacraft.github.io/note/)|
 |Twitter|[@yamacraft](https://twitter.com/yamacraft)|
 |Facebook|[yamacraft](https://www.facebook.com/yamacraft)|
-|LinkedIn|[yamacraft](https://www.linkedin.com/in/yamacraft/)|
-|Qiita|[yamacraft](http://qiita.com/yamacraft)|
 |Speakerdeck|[yamacraft](https://speakerdeck.com/yamacraft)|
 
 ## スキル
@@ -99,9 +97,14 @@
 
 ## 職務経歴
 
-### フリーランス（2018/06 〜 現在）
+### 合同会社ヤマダ印（2019/12/03 〜 現在）
 
-#### 2018/06/01 〜 現在
+- https://yamadajirushi.co.jp/
+- フリーランスから法人化
+
+### フリーランス（2018/06 〜 2019/12/31）
+
+#### 2018/06/01 〜 2019/12/31
 
 - 某社BtoC向けアプリ（Android）開発
     - 機能改修、追加、保守などの実装
@@ -180,21 +183,17 @@
 
 ## プライベート開発経験
 
-team Y.G.E.名義にて下記Androidアプリ、Webサービスの開発と保守、運用を担当。
+ヤマグロ（team Y.G.E.）名義にて下記Androidアプリ、Webサービスの開発と保守、運用を担当。
 
-URL: https://yge.yamaglo.jp/
+現在は合同会社ヤマダ印のプロダクトとして運用。
 
-- Android
-    - わらってパンダ（公開停止）
-    - kakuwr（公開停止）
-    - D.I.C.
-    - AAびゅーわ
-    - ズンドコキヨシゲーム（公開停止）
-- Web
-    - [YoroOne(yoroone.yamaglo.jp)](https://yoroone.yamaglo.jp/)（現在アップデートに向け運用停止中）
+URL: https://yamaglo.jp/
+
 
 ### 同人活動
 
+- 2019年9月22日 技術書典７参加
+    - 『Androidアプリで始めるFirebase Authentication導入ガイド』頒布
 - 2019年4月14日 技術書典６参加
     - 『Android Thingsで作るバーチャルアバターシステム開発記録』頒布
 - 2018年10月8日 技術書典５参加
