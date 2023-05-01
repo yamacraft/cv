@@ -19,6 +19,9 @@ jobs:
           node-version: 18
           cache: npm
       - run: npm install
+
+      - name: Install noto
+        run: udo apt-get update -y && sudo apt-get install -y fonts-noto
       
       - name: PDF Output
         run: ./node_modules/.bin/markdown-pdf cv.md -s pdf.css -o public/cv.pdf
