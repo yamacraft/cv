@@ -1,6 +1,6 @@
 ## CV(Curriculum Vitae)
 
-[![CircleCI](https://circleci.com/gh/yamacraft/cv/tree/master.svg?style=svg)](https://circleci.com/gh/yamacraft/cv/tree/master)
+[![Output and Deploy](https://github.com/yamacraft/cv/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/yamacraft/cv/actions/workflows/deploy.yml)
 
 [職務経歴書](https://github.com/yamacraft/cv/blob/master/cv.md)の管理リポジトリです。
 

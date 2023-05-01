@@ -19,6 +19,9 @@ jobs:
           node-version: 18
           cache: npm
       - run: npm install
+
+      - name: Install noto
+        run: sudo apt-get update -y && sudo apt-get install -y fonts-noto
       
       - name: PDF Output
         run: ./node_modules/.bin/markdown-pdf cv.md -s pdf.css -o public/cv.pdf
@@ -28,7 +31,7 @@ jobs:
         with:
           args: deploy --only hosting
         env:
-          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+          FIREBASE_TOKEN: ${{ vars.FIREBASE_TOKEN }}
 
       - name: Upload Archive
         uses: actions/upload-artifact@v1
@@ -43,5 +46,5 @@ jobs:
           author_name: yamacraft-cv deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_WEBHOOK_URL: ${{ vars.SLACK_WEBHOOK_URL }}
         if: always()
