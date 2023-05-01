@@ -28,7 +28,7 @@ jobs:
         with:
           args: deploy --only hosting
         env:
-          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+          FIREBASE_TOKEN: ${{ vars.FIREBASE_TOKEN }}
 
       - name: Upload Archive
         uses: actions/upload-artifact@v1
@@ -43,5 +43,5 @@ jobs:
           author_name: yamacraft-cv deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_WEBHOOK_URL: ${{ vars.SLACK_WEBHOOK_URL }}
         if: always()
