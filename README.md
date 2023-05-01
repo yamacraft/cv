@@ -4,6 +4,6 @@
 
 [職務経歴書](https://github.com/yamacraft/cv/blob/master/cv.md)の管理リポジトリです。
 
-masterブランチが更新されるたび、CircleCIによって最新の職務経歴書のPDF版をWeb上にアップロードする仕組みになっています。
+masterブランチが更新されるたび、GitHub Actionsによって最新の職務経歴書のPDF版をWeb上にアップロードする仕組みになっています。
 
 [https://yamacraft-cv.firebaseapp.com/](https://yamacraft-cv.firebaseapp.com/)

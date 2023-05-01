@@ -1,8 +1,0 @@
-version: '2'
-services:
-  output:
-    build:
-      context: ./
-      dockerfile: output.dockerfile
-    volumes:
-      - ./:/app
