@@ -1,5 +1,7 @@
 ## 職務経歴書
 
+最終更新日 2024年12月19日
+
 ### 基本情報
 
 |key|value|
@@ -7,7 +9,7 @@
 |Name|山田 航(Wataru Yamada)|
 |Web|[山田航空ネットワークフロント](http://yamacraft.github.io/)|
 |Blog|[山田航空ネットワーク3rd](http://yamacraft.github.io/note/)|
-|Twitter|[@yamacraft](https://twitter.com/yamacraft)|
+|X|[@yamacraft](https://x.com/yamacraft)|
 |Facebook|[yamacraft](https://www.facebook.com/yamacraft)|
 |Speakerdeck|[yamacraft](https://speakerdeck.com/yamacraft)|
 
@@ -101,6 +103,21 @@
 
 - https://yamadajirushi.co.jp/
 - フリーランスから法人化
+
+#### 業務実績（抜粋）
+
+- ゆめみ株式会社 様
+  - 2022年12月 〜 （継続中）
+  - 開発パートナーとして、ゆめみ様で開発しているAndroidアプリの開発の機能実装・改修等に参加しています
+- 株式会社Photosynth 様
+  - 2020年11月 〜 2022年11月
+  - Photosynth様が提供しているAkerun（Android版）のCI環境の整備、コード保守、新機能に関する設計〜実装に参加していました
+- 某仮想通貨取引所運営会社 様（セキュリティ上の都合により社名非公開）
+  - 2020年1月 〜 9月
+  - クライアント様より提供しているtoC向けアプリ（Android版）の改修・新規画面や機能の実装に参加していました
+- その他（サブ業務）
+  - 新規Androidアプリ開発に伴うエンジニアのサポート（コードレビュー、メンターなど）
+  - 新規Androidアプリ開発に伴う技術選定、基盤開発など
 
 ### フリーランス（2018/06 〜 2019/12/31）
 
